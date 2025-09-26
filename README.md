@@ -11,7 +11,7 @@
 
 ## 🔍 What I Do
 
-I’m passionate about using data to solve real-world problems, especially in the areas of fraud detection and financial risk analysis. My journey started in accounting, evolved through data analytics, and is now heading toward cybersecurity—because the greatest solutions come from those who love to solve problems!
+I’m passionate about using data to solve real-world problems, especially in the areas of fraud detection and financial risk analysis. My journey started in accounting, evolved through data analytics, and is now heading toward cybersecurity, because the greatest solutions come from those who love to solve problems!
 
 
 ## 🛠️ Skills & Tools
