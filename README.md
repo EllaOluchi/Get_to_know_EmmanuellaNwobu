@@ -5,14 +5,13 @@
 
 🎓 **BSc in Accounting**  
 💼 **Data Analyst** with 2+ years’ experience  
-🔄 **Transitioning into Cybersecurity**  
+🔄 **All about the impact**  
 📍 Based in Nigeria
 
 
 ## 🔍 What I Do
 
-I’m passionate about using data to solve real-world problems, especially in the areas of fraud detection and financial risk analysis. My journey started in accounting, evolved through data analytics, and is now heading toward cybersecurity, because the greatest solutions come from those who love to solve problems!
-
+My journey started in accounting, but my passion for solving real-world problems led me into data analytics. Today, I work in telecom as an SMS Operations Specialist, focusing on data-driven solutions. I am deeply passionate about financial risk analysis, especially using data to secure systems and prevent fraud. I also believe in giving back, volunteering my digital skills to support community groups. For me, the greatest solutions come from those who love to solve problems!
 
 ## 🛠️ Skills & Tools
 
@@ -21,7 +20,7 @@ I’m passionate about using data to solve real-world problems, especially in th
 - **Microsoft SQL Server**
 - **Power BI** (Data visualization & dashboards)
 - **Python** (Currently learning)
-- **Problem Solving, Critical Thinking, Time Management** & **Teaching**
+- **Problem Solving, Critical Thinking, Leadership, Time Management** & **Teaching**
 
 
 ## 🚀 Notable Achievements
@@ -48,7 +47,7 @@ I love teaching people how to feel confident using the tools that make their job
 
 ## 🌱 Currently Learning
 
-- Python for data and cybersecurity applications
+- Python and AI in Data
 
 
 ## 📫 Let’s Connect
