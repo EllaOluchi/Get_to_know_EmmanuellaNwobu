@@ -1,5 +1,5 @@
 # Get_to_know_EmmanuellaNwobu
-# 👋 Hi, I'm Emmanuella Nwobu (EllaOluchi)
+# 👋 Hi, I'm Emmanuella Nwobu 
 
 ## About Me
 
